@@ -1,0 +1,9 @@
+forAnidado.csproj
+forAnidado.sln
+forAnidado.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
