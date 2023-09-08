@@ -15,6 +15,7 @@ namespace forAnidado
 
             for (n = 1; n <= 5; n++ )
             {
+                Console.Write(n);
 
                 for (m = 'a'; m <= 'z'; m++)
                 {
